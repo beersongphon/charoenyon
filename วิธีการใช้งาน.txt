@@ -1,0 +1,12 @@
+ติดตั้ง xampp ver.5.6.8
+หลังจากนำโฟเดอร์ charoenyon ไปใส่ใน folder:xampp\htdocs
+ให้เปิด xampp Start
+-Apache
+-MySQL
+
+URL : สำหรับเข้าสู่ระบบแอดมิน
+http://localhost/charoenyon/admin/login.php
+
+URL : สำหรับหน้าบ้าน
+http://localhost/charoenyon/
+
